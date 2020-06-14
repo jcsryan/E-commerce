@@ -6,8 +6,9 @@
 <img src="https://img.shields.io/badge/Node.js-success"/>
 <img src="https://img.shields.io/badge/Sequelize-blue"/>  
 <img src="https://img.shields.io/badge/Insomnia-orange"/>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 </p>
-[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 
 ## Table of Contents
