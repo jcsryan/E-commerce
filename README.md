@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Sequelize-blue"/>  
 <img src="https://img.shields.io/badge/Insomnia-orange"/>
 </p>
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 ## Table of Contents
