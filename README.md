@@ -18,7 +18,18 @@
 - [Questions](#questions)
 
 ## Description
-### This application uses MySql2, sequelize, dotenv, and express to create the backend of a shopping site. All SQL injections are run in JS and the tables connect via their primary keys so you can find any of the tables data through any other making a streamlined user experience. The code is modularized to make expansion and general reading of the code base simpler. 
+### This application uses MySql2, nodemon, sequelize, dotenv, and express to create the backend of a shopping site. All SQL injections are run in JS and the tables connect via their primary keys so you can find any of the tables data through any other making a streamlined user experience. The code is modularized to make expansion and general reading of the code base simpler. 
+
+### Screenshot of the VSCode console injecting the SQL commands via the JS models.
+![](2020-06-14-17-46-33.png)
+
+### Screenshot of the program Insomnia, used to test the routes and tables.
+![](2020-06-14-17-47-12.png)
+
+## Usage
+## Youtube Video running through all the routes and SQL injections.
+[![Video](https://img.youtube.com/vi/3O3-Bdrlm3Y&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=3O3-Bdrlm3Y&feature=youtu.be)
+
 
 ## Install
 npm init  --> npm install mysql2 sequelize dotenv
