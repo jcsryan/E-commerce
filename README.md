@@ -33,7 +33,9 @@
 
 ## Install
 npm init  --> npm install mysql2 sequelize dotenv
+
 npm run seeds to fill the tables with dummy data
+
 npm install nodemon "if you want an easier time testing while changing routes"
 
 
