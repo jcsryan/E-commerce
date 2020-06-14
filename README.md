@@ -28,7 +28,7 @@
 
 ## Usage
 ## Youtube Video running through all the routes and SQL injections.
-[![Video](https://img.youtube.com/vi/3O3-Bdrlm3Y&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=3O3-Bdrlm3Y&feature=youtu.be)
+[![Video](https://img.youtube.com/vi/3O3-Bdrlm3Y/0.jpg)](https://www.youtube.com/watch?v=3O3-Bdrlm3Y&feature=youtu.be)
 
 
 ## Install
