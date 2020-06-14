@@ -17,11 +17,14 @@ router.get('/', (req, res) => {
   // find a single tag by its `id`
   // be sure to include its associated Product data
 router.get('/:id', (req, res) => {
-  Tag.findAll({
+  Tag.findOne({
     include: [{
       model: Product,
      
-    }]
+    }],
+    where: {
+      id: req.params.id
+    }
   }) .then(dbUserData => res.json(dbUserData))
   .catch(err => {
     console.log(err);
@@ -50,7 +53,7 @@ router.put('/:id', (req, res) => {
     }
   }) .then(dbUserData => {
     if (!dbUserData[0]) {
-      res.status(404).json({ message: 'No user found with this id' });
+      res.status(404).json({ message: 'No tag found with this id' });
       return;
     }
     res.json(dbUserData);
