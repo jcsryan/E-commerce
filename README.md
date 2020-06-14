@@ -27,6 +27,6 @@ npm install nodemon "if you want an easier time testing while changing routes"
 
 
 ## Questions
-##Contact me at:
-###[JCSRyan](https://github.com/jcsryan)
+## Contact me at:
+### [JCSRyan](https://github.com/jcsryan)
 ### JohnConnorSRyan@gmail.com
